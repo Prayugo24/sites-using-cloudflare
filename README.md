@@ -746,6 +746,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [klix.ba](http://klix.ba)
 - [kn3.net](http://kn3.net)
 - [komikid.com](http://komikid.com)
+- [nimeindo.net](http://nimeindo.net)
 - [korabia.com](http://korabia.com)
 - [kora-online.tv](http://kora-online.tv)
 - [korben.info](http://korben.info)
